@@ -1,0 +1,18 @@
+.div{
+    display: flex;
+}
+.stack{
+    display: flex;
+    justify-content: end;
+ 
+}
+.bt:hover{
+   background-color: rgb(213, 54, 134);
+}
+.im{
+    width: 40px;
+    height: 40px;
+}
+.ss{
+    display: flex;
+}
